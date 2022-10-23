@@ -1,6 +1,5 @@
 ---
 description: A tutorial on how to use the software components of "Live Secret Share"
-layout: editorial
 ---
 
 # Live Secret Share: How-to
