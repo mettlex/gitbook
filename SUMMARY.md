@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Co-founder Automation](README.md)
+* [Live Secret Share: How-to](README.md)
